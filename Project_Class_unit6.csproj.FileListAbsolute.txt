@@ -1,0 +1,10 @@
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\bin\Debug\Project_Class_unit6.exe.config
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\bin\Debug\Project_Class_unit6.exe
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\bin\Debug\Project_Class_unit6.pdb
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\obj\Debug\Project_Class_unit6.csproj.AssemblyReference.cache
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\obj\Debug\Project_Class_unit6.Form1.resources
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\obj\Debug\Project_Class_unit6.Properties.Resources.resources
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\obj\Debug\Project_Class_unit6.csproj.GenerateResource.cache
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\obj\Debug\Project_Class_unit6.csproj.CoreCompileInputs.cache
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\obj\Debug\Project_Class_unit6.exe
+C:\Users\kevmm\source\repos\Project_Class_unit6\Project_Class_unit6\obj\Debug\Project_Class_unit6.pdb
